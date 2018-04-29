@@ -5,3 +5,4 @@ Another change to the file
 
 Another little comment :)
 Trying git diff --staged
+May want to keep this line
